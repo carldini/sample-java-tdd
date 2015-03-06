@@ -2,6 +2,9 @@ package carldini.utils;
 
 import java.text.MessageFormat;
 
+/**
+ * 
+ */
 public class BasicStringCalculator implements StringCalculator {
 	
 	private static final String DELIMITERS = ",|\n";

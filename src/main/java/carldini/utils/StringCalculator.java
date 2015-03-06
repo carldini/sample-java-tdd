@@ -1,5 +1,8 @@
 package carldini.utils;
 
+/**
+ *  
+ */
 public interface StringCalculator {
 	
 	/**
